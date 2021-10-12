@@ -1,0 +1,19 @@
+name: computed_value_notifier
+description: Computed value based on another Listenable or Listenables
+version: 0.0.1
+homepage: https://github.com/HosamHasanRamadan/computed_value_notifier
+repository: https://github.com/HosamHasanRamadan/computed_value_notifier
+issue_tracker: https://github.com/HosamHasanRamadan/computed_value_notifier/issues
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^1.0.4
